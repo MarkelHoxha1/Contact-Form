@@ -48,9 +48,8 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="http://www.sourcecodester.com/">Home</a></li>
-            <li><a href="http://www.sourcecodester.com/about-sourcecodester.html">About</a></li>
-            <li><a href="http://www.sourcecodester.com/contact">Contact</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
         <!---    <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
               <ul class="dropdown-menu">
@@ -103,7 +102,7 @@ Contact Us
 
     <footer class="footer">
       <div class="container">
-        <p class="text-muted">Copyright &copy; 2016, <a href="http://www.sourcecodester.com/">Free source code, tutorials and articles</a> </p>
+        <p class="text-muted">Copyright &copy; 2016, <a href="#"></a> </p>
       </div>
     </footer>
 
